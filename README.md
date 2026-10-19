@@ -28,7 +28,7 @@ python hangman.py
 
 ## Author
 
-Python Programming Intern
+Amit Kumar Giri
 
 ## Organization
 
